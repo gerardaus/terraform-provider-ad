@@ -1,4 +1,4 @@
-module github.com/GSLabDev/terraform-provider-ad
+module github.com/gerardaus/terraform-provider-ad
 
 go 1.14
 
