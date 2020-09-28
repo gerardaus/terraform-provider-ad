@@ -10,7 +10,7 @@
 		},
 		{
 			"checksumSHA1": "vKQiq7vUkGDNBJjHcqDoZqfaHCk=",
-			"path": "gopkg.in/ldap.v3",
+			"path": "github.com/go-ldap/ldap/v3",
 			"revision": "3c7ebc5837612e50ae3a60b8e9933837c9193f5f",
 			"revisionTime": "2019-11-07T01:18:53Z"
 		}
